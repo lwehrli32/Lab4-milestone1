@@ -43,7 +43,7 @@
         android:id="@+id/progressText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="hiaf .sdajh f;lzskfkl jdf'lkvkjzxcvl/'kzxc"
+        android:text=""
         app:layout_constraintBottom_toTopOf="@+id/startButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
